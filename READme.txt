@@ -1,1 +1,1 @@
-Put information about the code here.
+Gyroprint.ino is the code used inside of Arduino.
